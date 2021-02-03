@@ -1,6 +1,21 @@
-#lmdn
+
+/** CODE CSS PAGE WEBDESIGN**/
+
+.lmdn
 {
     text-align:center;
     margin: 50px;
+}
+
+.title
+{
     font-family: 'Indie Flower', cursive;
+    margin:50px;
+}
+
+.card
+{
+    margin-top:40px;
+    width: 250px;
+    height: 200px;
 }
