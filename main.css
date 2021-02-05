@@ -76,3 +76,90 @@ font-weight: bold;
 }
 
  
+.contain{
+    width: 24vw ;
+}
+
+.couleur{
+    color: blue;
+}
+
+.titre
+{
+    position: absolute;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left : 80vh;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    color: wheat;
+    font: 1em sans-serif;
+}
+
+.image
+{
+    margin-top: 20px ;
+    margin-right: 20px;
+}
+
+.ligne 
+{
+    display: inline-block;
+    margin-top: 20px;
+    font-size: large;
+    margin-left: 20px;
+    list-style-type : none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.menu
+{
+    background: coral;
+    height: 80vh;
+    margin-bottom: 20px;
+}
+
+.nav
+{
+    height: 100vh;
+    background: rgba(208, 238, 240, 0.966);
+    margin-bottom: 10px;
+}
+
+.button
+{
+margin : 20px;
+}
+
+container {
+    column-count: 4;
+    margin-top: 20px;
+    justify-content: space-between;
+    align-items: space-between;
+  }
+
+
+  .card-img-top
+  {
+    height: 50vh;
+    max-height: 10rem;
+  }
+
+  .containeur
+  {
+    display:flex;             
+    flex-direction:row;     
+    justify-content:space-between; 
+    
+  }
+
+  #carouselExampleSlidesOnly
+  {
+    margin: 20px;
+  }
+
+  
