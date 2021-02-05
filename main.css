@@ -1,0 +1,78 @@
+/*Image haut de page*/
+
+.card mb-3
+ {
+     background-image: url(imgdevops.jpg);
+     
+     overflow: hidden;
+     display: flex;
+     justify-content: space-between;
+ }
+ /*Titre principale*/
+ h1 {
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+ }
+ /*Bouton qui renvoie aux différentes sections*/
+ .btn  {
+    
+       
+     color: rgb(254, 254, 255);
+     
+ }
+ /*Texte et sous titres*/
+ /*définition devops*/
+ h2{
+     font-size:large;
+     color: steelblue;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bold;
+ }
+ 
+ p {
+    
+    font-size-adjust: initial;
+    line-height: 170%;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ h3{
+     font-size: large;
+     color: steelblue;
+     font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+ }
+ h5{
+    font-size: large;
+    color: steelblue;
+    font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+}
+.liste{
+    font-weight: bolder;
+}
+ul{
+     font-size-adjust: none;
+}
+ h4{font-size: large;
+    color: steelblue;
+    font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+}
+
+ 
+
+ 
+ h6{font-size: large;
+    color: steelblue;
+    font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+}
+/*fin texte et sous titres*/
+
+ 
+/* images offres d'emploi*/
+.btn btn-lg btn-primary{
+    justify-content: end;
+}
+
+ 
