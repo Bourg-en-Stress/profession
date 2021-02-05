@@ -51,3 +51,37 @@ a
     background: rgba(208, 238, 240, 0.966);
     margin-bottom: 10px;
 }
+
+.button
+{
+margin : 20px;
+}
+
+container {
+    column-count: 4;
+    margin-top: 20px;
+    justify-content: space-between;
+    align-items: space-between;
+  }
+
+
+  .card-img-top
+  {
+    height: 50vh;
+    max-height: 10rem;
+  }
+
+  .containeur
+  {
+    display:flex;             
+    flex-direction:row;     
+    justify-content:space-between; 
+    
+  }
+
+  #carouselExampleSlidesOnly
+  {
+    margin: 20px;
+  }
+
+  
