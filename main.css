@@ -13,17 +13,10 @@
     margin:50px;
 }
 
-.card
-{
-    margin-top:40px;
-    width: 250px;
-    height: 200px;
-}
-
 .img-size
 {
     display: block;
     width: 100%;
-    height: 24vh;
+    height: 30vh;
     object-fit:cover;
 }
